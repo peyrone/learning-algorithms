@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+.idea/*
+*?metastore_db/*
+*/spark_warehouse/*
+.mypy_cache/
+.vscode/*
+.venv
+venv/*
+loaded_data/*
+derby.log
+.DS_Store
